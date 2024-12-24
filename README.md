@@ -1,5 +1,7 @@
-Mi nombre es Lucia
+# Mi nombre es Lucia
 
-Esta soy yo:
+# Mi edad es 30 años
+
+## Esta soy yo:
 
 ![Mi foto](./imagenes/lucia.png)
